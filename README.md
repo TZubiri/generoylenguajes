@@ -14,7 +14,7 @@ Esta limitación es particularmente importante para la correlación entre genero
 
 # Resultados preliminares
 
-Aproximadamente el 8% de los programadores que respondieron a la encuesta de StackOverflow son mujeres [1] . Aproximadamente el 12% de los usuarios de R son mujeres. [2]
+Aproximadamente el 8% de los programadores que respondieron a la encuesta de StackOverflow son mujeres [1] . Aproximadamente el 12.8% de los usuarios de R son mujeres. [2]
 
 
 [1] https://insights.stackoverflow.com/survey/2020#developer-profile-gender-all-respondents2
